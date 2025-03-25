@@ -10,6 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "typescript": "^5.8.2"
+    "chess.js": "^1.1.0",
+    "typescript": "^5.8.2",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.18.0"
   }
 }
